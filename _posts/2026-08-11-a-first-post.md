@@ -8,30 +8,30 @@ My poetry isn't spectacular by measure, and it's been a while since I've written
 
 > The former oak takes its place as a stump.
 > 
-> A stump that holds many rings,
-> Like
-> The rings of a skipped rock into Waterfall Lake, or
-> The rings of enclosure time sometimes brings with its faded memories and half-lucid pasts of past paths until it is cut off.
+> A stump that holds many rings,\
+> Like\
+> The rings of a skipped rock into Waterfall Lake, or\
+> The rings of enclosure time sometimes brings with its faded memories and half-lucid pasts of past paths until it is cut off.\
 > 
-> The tree is lonely without its leaves
-> Or the ability to create leaves, 
-> And this leaves this tree without somebody.
-> Without leaves to dance with in the rain
-> It is merely a soul without life,
-> Which is no good.
-> The tree is nonexistent to all by now
+> The tree is lonely without its leaves\
+> Or the ability to create leaves, \
+> And this leaves this tree without somebody.\
+> Without leaves to dance with in the rain\
+> It is merely a soul without life,\
+> Which is no good.\
+> The tree is nonexistent to all by now\
 >
-> Except to me, ofcourse, though only ofcourse to you,
-> Me, sitting here on this tree stump of a time capsule
-> A delicately caught piece of the ever-aging, 
-> Ever-soaring wings of time,
-> Keeper of the universe.
+> Except to me, ofcourse, though only ofcourse to you,\
+> Me, sitting here on this tree stump of a time capsule\
+> A delicately caught piece of the ever-aging, \
+> Ever-soaring wings of time,\
+> Keeper of the universe.\
 >
-> When I sit here I walk back
-> And see.
-> It is good to see sometimes, with this sad old tree I do,
-> And the pain that always comes then
-> Passes lighter.
+> When I sit here I walk back\
+> And see.\
+> It is good to see sometimes, with this sad old tree I do,\
+> And the pain that always comes then\
+> Passes lighter.\
 
 Alright, now I shall bed[^2].
 
