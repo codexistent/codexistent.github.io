@@ -6,16 +6,16 @@ It is currently 11:11 PM, the luckiest time of the day; in August, the luckiest 
 
 Ok, now in order to fulfill my promise of blogging while being time-efficient, here's another random poem I wrote two years ago and thus do not hold accountability for[^1]:
 > **Half The Void - Part I**
-> Some places/
+> Some places\
 > Are like ghosts
 >
-> Like half forgotten dreams/
-> Mirages of past/
-> the ever-youth of sky/
-> Loving what is not known/
+> Like half forgotten dreams\
+> Mirages of past\
+> the ever-youth of sky\
+> Loving what is not known\
 > Meaningless
 >
-> Somewheres I see but/
+> Somewheres I see but\
 > Can’t place
 Apparently, younger me believed I should start a poem which came in a series of parts. Conveniently, currently with college apps and much ado, there is little time to write original text for the time being. Thus, and conveniently as perhaps a token for you to continue reading, I will be releasing the parts of this poem as the days go past. Do note all of this was written much time ago, when I had not yet known this would be posted on a blog for all the world to see. So be warned and wary of the latter fact.
 
