@@ -6,6 +6,7 @@ It is currently 11:11 PM, the luckiest time of the day; in August, the luckiest 
 
 Ok, now in order to fulfill my promise of blogging while being time-efficient, here's another random poem I wrote two years ago and thus do not hold accountability for[^1]:
 > **Half The Void - Part I**
+> 
 > Some places\
 > Are like ghosts
 >
