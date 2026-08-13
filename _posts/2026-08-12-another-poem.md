@@ -2,7 +2,7 @@
 
 Woah, I cannot believe my consistency. Post two.
 
-It is currently 11:11 PM, the luckiest time of the day; in August, the luckiest month of the year; and look, now it is 11:12. It is the 12th! Perhaps I am onto something.
+It is currently 11:11 PM, the luckiest time of the day; in August, the luckiest month of the year; and look, now it is 11:12. It is, too, the 12th of the month! Perhaps I am onto something.
 
 Ok, now in order to fulfill my promise of blogging while being time-efficient, here's another random poem I wrote two years ago and thus do not hold accountability for[^1]:
 > **Half The Void - Part I**
