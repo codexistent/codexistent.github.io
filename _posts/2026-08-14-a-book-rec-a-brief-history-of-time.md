@@ -1,4 +1,6 @@
-#  A Book Rec: A Brief History of Time
+#  A Book Rec: A Brief History of Time, Among Other Stuff
+
+## A Book Rec
 
 Who are we? Where are we from? What are we here for? What are we made of? What are we? What is time? What is the purpose of life? What is outside of the universe? Is the universe finite? ~~Why am I sounding like Georgey Pig?~~
 
@@ -19,15 +21,15 @@ Broh. Don't make this error again.
 #### 2. Trouble running `setup-conda.sh` on Windows
 
 When attempting computer setup using [this](https://github.com/AnswerDotAI/fastsetup) repo, running `./setup-conda-clean.sh` gave me the following error:
-> env: $'bash\r': No such file or directory
+> env: $'bash\r': No such file or directory\
 > env: use -[v]S to pass options in shebang lines
 
 This is because `setup-conda.sh` typically has Unix-style instead of Windows-style endings. To fix this, you can either modify `setup-conda.sh` or if you are like me and are deathly afraid of fudging existing files up (as will likely happen), create a new file `setup-conda-clean.sh` and run it:
-> tr -d '\r' < setup-conda.sh > setup-conda-clean.sh
-> chmod +x setup-conda-clean.sh
+> tr -d '\r' < setup-conda.sh > setup-conda-clean.sh\
+> chmod +x setup-conda-clean.sh\
 > ./setup-conda-clean.sh
 
-This should fix things
+This should fix things.
 
 ## Footnotes
 
