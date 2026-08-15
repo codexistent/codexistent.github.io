@@ -31,6 +31,17 @@ This is because `setup-conda.sh` typically has Unix-style instead of Windows-sty
 
 This should fix things.
 
+### Running FastAI Kernel Locally via Jupyter
+
+One critical step in order to complete 02 is being able to run Jupyter locally: specifically, run an `.ipynb` which then helps generate `app.py` to deploy our model. An issue I faced when doing this is when attempting to run:
+> learn = load_learner('model.pkl')
+
+I got an error ending in:
+> Custom classes or functions exported with your 'Learner' not available in namespace. Re-declare/import before loading:
+>   'Resolver' object has no attribute '_\_dict__'
+
+The issue is that the kernel for your Jupyter notebook must be set to `Python 3.11 (fastai)`.  While simply changing the notebook's kernel to that version will work, in my case I did not see that option initially in the dropdown when attempting to change it. To resolve this, try creating and activating the `Python 3.11` environment via terminal first, and then refreshing/reopening Jupyter for which you should now see the option. If not, try asking Gemini.
+
 ## Footnotes
 
 [^1]: Astronomenal: astronomically phenomenal
