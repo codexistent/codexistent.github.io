@@ -12,11 +12,11 @@ A Brief History of Time by Stephen Hawking is astronomenal[^1]. I have never rea
 
 For context: part of an initiative to document any errors, creations, etc. for various courses I persue. Have found these to be very helpful based on past projects/roles. This is also just in case I completely fudge up changes and need to reference what I did in the past.
 
-### Computer Setup via /fastsetup
+### Computer Setup via `/fastsetup`
 
-#### 1. How Enter Linux Terminal...
+#### 1. Entering Linux Terminal...
 
-Just type da `wsl` in da Powershell. Linux!
+Just type da `wsl` in da Powershell. Linux! 
 
 #### 2. Trouble running `setup-conda.sh` on Windows
 
