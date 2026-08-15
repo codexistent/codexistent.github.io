@@ -43,7 +43,7 @@ I got an error ending in:
 The issue is that the kernel for your Jupyter notebook must be set to `Python 3.12 (fastai)`.  While simply changing the notebook's kernel to that version will work, in my case I did not see that option initially in the dropdown when attempting to change it. To resolve this, try creating and activating the `Python 3.12` environment via terminal first, registering the environment with Jupyter, and then refreshing/reopening Jupyter for which you should now see the option. To register, I ran:
 > python -m ipykernel install --user --name fastai_py312 --display-name "Python 3.12 (fastai_py312)"
 
-If not, try asking Gemini.
+If this doesn't work, ask an AI model.
 
 ## Footnotes
 
