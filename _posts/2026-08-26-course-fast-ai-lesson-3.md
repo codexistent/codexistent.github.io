@@ -19,6 +19,7 @@
 
 ### Misc.
 - When people say 'you need linear algebra' for AI they are mostly referring to just matrix multiplication
+  - Good visualization: [matrixmultiplication.xyz](matrixmultiplication.xyz)
 
 # Footnotes
 
