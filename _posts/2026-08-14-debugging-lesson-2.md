@@ -1,6 +1,8 @@
-#  Debugging - Course.Fast.AI Lesson 2
+#  Course.Fast.AI Lesson 2
 
 This is part of an initiative to document any errors, creations, etc. for various courses I pursue. Have found these to be very helpful based on past projects/roles. This is also just in case I completely fudge up changes and need to reference what I did in the past.
+
+Below are some of the notes I took in the process of debugging during Course.Fast.AI's second lesson.
 
 ## Computer Setup via `/fastsetup`
 
