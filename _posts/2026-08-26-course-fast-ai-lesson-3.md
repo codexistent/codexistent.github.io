@@ -15,11 +15,12 @@
 - **Learning Rate:** hyperparameter determining how fast you want to train your model; the number you multiply your `.grad` values by when tweaking parameters during gradient descent. Neither faster nor slower may be optimal, and usually a balance is good. 
 
 ### Deep Learning, Summarized In Two Lines
-(Double, triple, etc.) relus are the infinitely flexible functions used by models (i.e. the thing that's 'learning'). These relus need parameters, for which we use gradient descent.
+(Double, triple, etc.) **relus** are the infinitely flexible functions used by models (i.e. the thing that's 'learning'). These relus need parameters, for which we use **gradient descent**.
 
 ### Misc.
 - When people say 'you need linear algebra' for AI they are mostly referring to just matrix multiplication
   - Good visualization: [matrixmultiplication.xyz](matrixmultiplication.xyz)
+- GPUs are good at matrix multiplication; tensor cores multiply 4x4 matricies, and do this multiple times to multiply bigger matricies
 
 # Footnotes
 
