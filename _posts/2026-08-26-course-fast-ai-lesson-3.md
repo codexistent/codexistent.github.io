@@ -12,6 +12,7 @@
 - **Double Relu:** add two rectified linear functions together
   - Triple relu, etc.
   - You can add as many rectified linears to relus as you want
+- **Learning Rate:** hyperparameter determining how fast you want to train your model; the number you multiply your `.grad` values by when tweaking parameters. Neither faster nor slower may be optimal, and usually a balance is good. 
 
 ### Deep Learning In Two Lines
 (Double, triple, etc.) relus are the infinitely flexible functions used by models (i.e. the thing that's 'learning'). These relus need parameters, for which we use gradient descent.
