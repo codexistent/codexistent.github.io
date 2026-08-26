@@ -17,6 +17,9 @@
 ### Deep Learning, Summarized In Two Lines
 (Double, triple, etc.) relus are the infinitely flexible functions used by models (i.e. the thing that's 'learning'). These relus need parameters, for which we use gradient descent.
 
+### Misc.
+- When people say 'you need linear algebra' for AI they are mostly referring to just matrix multiplication
+
 # Footnotes
 
 [^1]: Astronomenal: astronomically phenomenal
