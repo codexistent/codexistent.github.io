@@ -1,8 +1,8 @@
 #  Course.Fast.AI Lesson 3 - Part 2
 
-## Book Notes
+## Chapter 4 Notes
 
-Lesson 3 corresponds with Chapter 4 of the fastai book.
+Context: Lesson 3 of the course corresponds with Chapter 4 of the fastai book.
 
 ### Terms
 - **Rank:** number of axes or dimensions of tensor, equal to `tensor.ndim` or `len(tensor.shape)`
